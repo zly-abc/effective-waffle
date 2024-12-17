@@ -1,8 +1,0 @@
-# Dependency directory
-node_modules
-# Logs
-npm-debug.log*
-# Editor workspace config
-.vscode
-# xlsx
-app/excel
